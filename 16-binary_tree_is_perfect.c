@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "binary_trees.h"
+#include "11-binary_tree_size.c"
 
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "binary_trees.h"
+#include "9-binary_tree_height.c"
 
 int binary_tree_balance(const binary_tree_t *tree)
 {
